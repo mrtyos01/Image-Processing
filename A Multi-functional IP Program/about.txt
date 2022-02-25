@@ -1,0 +1,8 @@
+A Multi-functional Image Processing Program
+
+The most of codes are included in report.pdf file.
+
+Group Members
+	Morteza Yosefy
+	Kibru Joba Kuture
+	Michael Derece Kebede
