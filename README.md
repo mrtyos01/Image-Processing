@@ -7,6 +7,6 @@ A Multi-functional Image Processing Program
 Object Detection with Deep Learning
 
 ## Team Members
-Morteza Yosefy
-Michael Kebede Dereje
+Morteza Yosefy,
+Michael Kebede Dereje, and
 Kibru Kuture
